@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.malbera.statistics.service.StatisticsServiceImplTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-02-12T22:53:56" hostname="malbera" time="0.027">
+  <properties/>
+  <testcase name="shouldFailToFindDataPointWhenAccountNameIsNull" classname="ch.malbera.statistics.service.StatisticsServiceImplTest" time="0.01"/>
+  <testcase name="shouldFailToFindDataPointWhenAccountNameIsEmpty" classname="ch.malbera.statistics.service.StatisticsServiceImplTest" time="0.001"/>
+  <testcase name="shouldSaveDataPoint" classname="ch.malbera.statistics.service.StatisticsServiceImplTest" time="0.013"/>
+  <testcase name="shouldFindDataPointListByAccountName" classname="ch.malbera.statistics.service.StatisticsServiceImplTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

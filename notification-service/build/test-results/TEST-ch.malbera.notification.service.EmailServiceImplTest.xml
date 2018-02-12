@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.malbera.notification.service.EmailServiceImplTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-02-12T22:53:42" hostname="malbera" time="0.067">
+  <properties/>
+  <testcase name="shouldSendRemindEmail" classname="ch.malbera.notification.service.EmailServiceImplTest" time="0.058"/>
+  <testcase name="shouldSendBackupEmail" classname="ch.malbera.notification.service.EmailServiceImplTest" time="0.008"/>
+  <system-out><![CDATA[2018-02-12 23:53:42.574  INFO 2377 --- [    Test worker] c.m.n.service.EmailServiceImpl           : REMIND email notification has been send to test@test.com
+2018-02-12 23:53:42.584  INFO 2377 --- [    Test worker] c.m.n.service.EmailServiceImpl           : BACKUP email notification has been send to test@test.com
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

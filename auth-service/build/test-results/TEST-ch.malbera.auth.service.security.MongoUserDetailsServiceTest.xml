@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.malbera.auth.service.security.MongoUserDetailsServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-02-12T22:53:22" hostname="malbera" time="0.002">
+  <properties/>
+  <testcase name="shouldLoadByUsernameWhenUserExists" classname="ch.malbera.auth.service.security.MongoUserDetailsServiceTest" time="0.001"/>
+  <testcase name="shouldFailToLoadByUsernameWhenUserNotExists" classname="ch.malbera.auth.service.security.MongoUserDetailsServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

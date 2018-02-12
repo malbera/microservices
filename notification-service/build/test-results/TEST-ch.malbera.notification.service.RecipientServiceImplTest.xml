@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.malbera.notification.service.RecipientServiceImplTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2018-02-12T22:53:42" hostname="malbera" time="0.022">
+  <properties/>
+  <testcase name="shouldFailToFindRecipientWhenAccountNameIsEmpty" classname="ch.malbera.notification.service.RecipientServiceImplTest" time="0.006"/>
+  <testcase name="shouldFindReadyToNotifyWhenNotificationTypeIsBackup" classname="ch.malbera.notification.service.RecipientServiceImplTest" time="0.002"/>
+  <testcase name="shouldFindReadyToNotifyWhenNotificationTypeIsRemind" classname="ch.malbera.notification.service.RecipientServiceImplTest" time="0.001"/>
+  <testcase name="shouldMarkAsNotified" classname="ch.malbera.notification.service.RecipientServiceImplTest" time="0.003"/>
+  <testcase name="shouldFindByAccountName" classname="ch.malbera.notification.service.RecipientServiceImplTest" time="0.001"/>
+  <testcase name="shouldSaveRecipient" classname="ch.malbera.notification.service.RecipientServiceImplTest" time="0.009"/>
+  <system-out><![CDATA[2018-02-12 23:53:42.608  INFO 2377 --- [    Test worker] c.m.n.service.RecipientServiceImpl       : recipient Recipient{accountName='test', email='test@test.com'} settings has been updated
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
