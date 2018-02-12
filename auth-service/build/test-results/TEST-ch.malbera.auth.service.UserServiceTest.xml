@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ch.malbera.auth.service.UserServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-02-12T22:53:22" hostname="malbera" time="0.104">
-  <properties/>
-  <testcase name="shouldCreateUser" classname="ch.malbera.auth.service.UserServiceTest" time="0.1"/>
-  <testcase name="shouldFailWhenUserAlreadyExists" classname="ch.malbera.auth.service.UserServiceTest" time="0.004"/>
-  <system-out><![CDATA[2018-02-12 23:53:22.682  INFO 2142 --- [    Test worker] ch.malbera.auth.service.UserServiceImpl  : new user has been created: name
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
